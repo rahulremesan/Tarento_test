@@ -1,2 +1,3 @@
-name = input("Enter your name")
-print(name)
+for i in range():
+	name = input("Enter your name")
+	print(name)
