@@ -1,2 +1,2 @@
 # Tarento_test
-git basic commands 
+Tarento Training assignments
